@@ -3,9 +3,9 @@
 
 <html>
     <head>
-        <title>JSP - Hello World</title>
+        <title>what's up ma ni****</title>
     </head>
     <body>
-        <jsp:forward page="posts.jsp"/>
+        <jsp:forward page="list.jsp"/>
     </body>
 </html>
